@@ -9,7 +9,7 @@
 (908) 242-8435 | <white.paul0099@gmail.com> | <www.linkedin.com/in/paul-white-b85a6b313> | <github.com/pcwhite-dot>  
    
 ##### Education  
-**Colgate University**  
+**Colgate University**  f
 *B.A. in Computer Science  									*Aug. 2020 - May 2024*
 **Courses**: Object-Oriented Programming, Data Structures and Algorithms, Computer Systems, Moblie App Development, Project Management, Web Development 
 
